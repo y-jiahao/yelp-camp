@@ -13,4 +13,4 @@ __Experience it here: https://yelpcamp-caproject.herokuapp.com/__
 - Frontend:
   - HTML5, CSS3, Bootstrap5, JavascriptES6
 - Backend:
-  - JavascriptES6, NodeJS, Express, EJS, MongoDB (Cloud Atlas), Cloudinary
+  - JavascriptES6, NodeJS, Express, EJS, Mongoose, MongoDB (Cloud Atlas), Cloudinary
